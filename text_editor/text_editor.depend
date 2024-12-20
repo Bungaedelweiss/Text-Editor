@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733068516 source:c:\users\mutti\onedrive\documents\coding\adt\text_editor\main.cpp
+	<iostream>
+	"textEditor.h"
+
+1732633439 c:\users\mutti\onedrive\documents\coding\adt\text_editor\texteditor.h
+	<string>
+
+1733071130 source:c:\users\mutti\onedrive\documents\coding\adt\text_editor\texteditor.cpp
+	"textEditor.h"
+	<iostream>
+
