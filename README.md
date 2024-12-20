@@ -4,7 +4,7 @@ Kelompok Hamba Allah
 2. Muthia Rezi Aisyah - 103052300114
 3. Amalia Ananda Putri - 103052330078
 
-File FIX Program Text Editor yang dapat di run dengan benar: TextEditor.zip
+File FIX Program Text Editor yang dapat di run dengan benar: TextEditor.zip atau file TextEditor.
 
 Proyek text editor ini dibuat dengan mengaplikasikan konsep struktur data yang telah dipelajari sebelumnya di mata kuliah ini, yaitu Singly Linked List dan Stack. Fitur-fitur yang dimuat dalam text editor ini antara lain, yaitu fitur memasukkan atau membuat kalimat baru, penyisipan kata (insert), penghapusan kata (delete), menampilkan teks (print), mencari kata (search), menghitung kata (word count), dan undo-redo.
 
